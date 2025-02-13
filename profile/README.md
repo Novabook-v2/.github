@@ -16,3 +16,9 @@
 기존 도서 이커머스 프로젝트에서 
 부족한 부분을 수정하고 
 고도화하여 새롭게 리뉴얼 하는 프로젝트 입니다.
+
+<br>
+
+## 아키텍처 구성
+
+![novabook2 drawio](https://github.com/user-attachments/assets/67ff9962-7d82-408f-be72-f2d411fc1de1)
